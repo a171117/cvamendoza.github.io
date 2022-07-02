@@ -1,0 +1,20 @@
+.fuentearial {
+    font-family: Arial, Helvetica, sans-serif;   
+  }
+
+h2{
+    color: rgb(43, 40, 40);
+}
+h3{
+    color: rgb(41, 39, 39);
+}
+#tag-objetivo{
+    color: rgb(43, 40, 40);
+    font-weight: bold;
+}
+img{
+    border-radius: 8px;
+}
+.fondo{
+    background-color: rgb(233, 230, 230);
+}
